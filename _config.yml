@@ -21,7 +21,7 @@ description: Graduate Student, University of Connecticut
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: elizaveta.terlova[at]uconn.edu
+  email: elizaveta.terlova@uconn.edu
   facebook:
   flickr:
   github: 
@@ -47,8 +47,8 @@ disqus:
 #google_analytics_ga4: G-GABC1DEFG
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
-# Used for Sitemap.xml and your RSS feed
-url: http://www.eterlova.io
+# Used for Sitemap.xml and your feed
+#url: http://www.eterlova.github.io
 # enforce_ssl: https://www.
 
 # If you're hosting your site at a Project repository on GitHub pages
