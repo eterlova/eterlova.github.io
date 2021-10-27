@@ -14,6 +14,6 @@ Here I am collecting useful links and resources
 
 [Greg Terlov](https://sites.google.com/a/illinois.edu/gterlov/home), grad student at University of Illinois, USA
 
-## Bioinformatics resources
+## Bioinformatics Resources
 
 How to run [XCMS on a cluster](https://usermanual.wiki/Document/GuideRonHPC.1310469751/view)
