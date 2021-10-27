@@ -9,9 +9,11 @@ Download [My CV](https://github.com/eterlova/eterlova.github.io/blob/master/CV_O
 ## Curriculum Vitae
 
 ### Education
-**University of Connecticut**, Storrs, CT Ph.D. candidate, Ecology and Evolutionary biology, 2016–present
+**University of Connecticut**, Storrs, CT, USA
+Ph.D. candidate, Ecology and Evolutionary biology, 2016–present
 
 **Lomonosov Moscow University**, Moscow, Russia
+
 Specialist in Botany, (equivalent to MSc) Biology, 2010–2015
 Thesis: "Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Moscow region, Russia"
 
@@ -19,13 +21,13 @@ Thesis: "Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Mosco
 2020 **($1000) 2020 Northeast Algal Society Grant-in-Aid of Student Research**
 Metabolomics of aquatic and terrestrial sister-species under desiccation stress.
 
-2020 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, Univeristy of Connecticut**
+2020 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, University of Connecticut**
 Comparative transcriptomics of a pair of congeners from aquatic and terrestrial habitats
 
 2019 **($3000) 2019 Society of Systematic Biologists Graduate Student Research Award (GSRA)**
 Signatures of desiccation tolerance in genomes of aquatic and desert sister-species.
 
-2018 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, Univeristy of Connecticut**
+2018 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, University of Connecticut**
 Metabolomics of aquatic and desert sister-species during desiccation and rehydration.
 
 2017 **($1428) The Betty Foster Feingold Endowment for Ecology and Evolutionary Biology to the Department of Ecology and Evolutionary Biology**
