@@ -4,7 +4,7 @@ title: Getting started with Reverie
 permalink: /cv/
 ---
 
-Download [My CV](https://github.com/eterlova/eterlova.github.io/blob/master/CV_October2021.pdf) [Last updated: October 2021]
+Download [My CV](/blob/master/CV_October2021.pdf) [Last updated: October 2021]
 
 ## Curriculum Vitae
 
