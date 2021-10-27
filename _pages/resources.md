@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /about/
+permalink: /resources/
 ---
 
 Here I am collecting useful links and resources
