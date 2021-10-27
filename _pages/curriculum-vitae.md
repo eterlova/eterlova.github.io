@@ -4,7 +4,7 @@ title: Getting started with Reverie
 permalink: /cv/
 ---
 
-Download [My CV](/blob/master/CV_October2021.pdf) [Last updated: October 2021]
+Download <a href="/blob/master/CV_October2021.pdf" target="_blank">My CV</a> [Last updated: October 2021]
 
 ## Curriculum Vitae
 
