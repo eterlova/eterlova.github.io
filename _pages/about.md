@@ -16,4 +16,4 @@ Here I am collecting useful links and resources
 
 ## Bioinformatics resources
 
-How to run [XCMS on a cluster] (https://usermanual.wiki/Document/GuideRonHPC.1310469751/view)
+How to run [XCMS on a cluster](https://usermanual.wiki/Document/GuideRonHPC.1310469751/view)
