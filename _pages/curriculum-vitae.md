@@ -19,22 +19,34 @@ Thesis: "Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Mosco
 
 ### Research Grants
 2020 **($1000) 2020 Northeast Algal Society Grant-in-Aid of Student Research**
+
 Metabolomics of aquatic and terrestrial sister-species under desiccation stress.
 
+
 2020 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, University of Connecticut**
+
 Comparative transcriptomics of a pair of congeners from aquatic and terrestrial habitats
 
+
 2019 **($3000) 2019 Society of Systematic Biologists Graduate Student Research Award (GSRA)**
+
 Signatures of desiccation tolerance in genomes of aquatic and desert sister-species.
 
+
 2018 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, University of Connecticut**
+
 Metabolomics of aquatic and desert sister-species during desiccation and rehydration.
 
+
 2017 **($1428) The Betty Foster Feingold Endowment for Ecology and Evolutionary Biology to the Department of Ecology and Evolutionary Biology**
+
 Ultrastructural comparison of desert and aquatic species of *Tetradesmus* (Chlorophyceae, Chlorophyta) in the hydrated, desiccated, and rehydrated states.
 
+
 2017 **($2000) Phycological Society of America’s Grant in Aid of Research**
+
 Desiccation tolerance in chlorophycean algae: a transcriptomic analysis.
+
 
 ### Publications
 **Terlova, E. F.**, Holzinger, A., Lewis, L. A. 2021. Terrestrial green algae show higher tolerance to dehydration than do their aquatic sister-species. *Microbial Ecology*, 82, p. 770–782.
