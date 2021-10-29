@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-categories: 
+permalink: /
 ---
 
 <div align="right">
