@@ -1,3 +1,9 @@
+---
+layout: page
+title:
+permalink: /
+---
+
 
 <div align="right">
   <br>
