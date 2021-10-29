@@ -19,7 +19,7 @@ Thesis: "Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Mosco
 
 ### Research Grants
 
-2020 ($1000) Northeast Algal Society Grant-in-Aid of Student Research. Metabolomics of aquatic and terrestrial sister-species under desiccation stress.
+2020 ($1000) *Northeast Algal Society Grant-in-Aid of Student Research.* Metabolomics of aquatic and terrestrial sister-species under desiccation stress.
 
 2020 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, University of Connecticut**
 Comparative transcriptomics of a pair of congeners from aquatic and terrestrial habitats
