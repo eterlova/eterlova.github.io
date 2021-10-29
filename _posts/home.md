@@ -1,7 +1,7 @@
 ---
 layout: post
-title: blalbalba
-categories: blalala
+title: 
+categories: 
 ---
 
 <div align="right">
