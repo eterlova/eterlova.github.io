@@ -18,8 +18,6 @@ Specialist in Botany, (equivalent to MSc) Biology, 2010–2015
 Thesis: "Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Moscow region, Russia"
 
 ### Research Grants
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
 
 2020 **($1000) 2020 Northeast Algal Society Grant-in-Aid of Student Research**
 Metabolomics of aquatic and terrestrial sister-species under desiccation stress.
