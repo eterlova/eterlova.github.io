@@ -19,7 +19,6 @@ Thesis: "Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Mosco
 
 ### Research Grants
 2020 **($1000) 2020 Northeast Algal Society Grant-in-Aid of Student Research**
-
 Metabolomics of aquatic and terrestrial sister-species under desiccation stress.
 
 
