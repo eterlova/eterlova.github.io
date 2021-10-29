@@ -19,21 +19,21 @@ Thesis: "Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Mosco
 
 ### Research Grants
 
-2020 ($1000) *Northeast Algal Society Grant-in-Aid of Student Research.* Metabolomics of aquatic and terrestrial sister-species under desiccation stress.
+2020 **($1000) Northeast Algal Society Grant-in-Aid of Student Research.** Metabolomics of aquatic and terrestrial sister-species under desiccation stress.
 
-2020 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, University of Connecticut**
+2020 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, University of Connecticut.**
 Comparative transcriptomics of a pair of congeners from aquatic and terrestrial habitats
 
-2019 **($3000) Society of Systematic Biologists Graduate Student Research Award (GSRA)**
+2019 **($3000) Society of Systematic Biologists Graduate Student Research Award (GSRA).**
 Signatures of desiccation tolerance in genomes of aquatic and desert sister-species.
 
-2018 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, University of Connecticut**
+2018 **($1500) The Betty Foster Feingold Award, Department of Ecology and Evolutionary Biology, University of Connecticut.**
 Metabolomics of aquatic and desert sister-species during desiccation and rehydration.
 
-2017 **($1428) The Betty Foster Feingold Endowment for Ecology and Evolutionary Biology to the Department of Ecology and Evolutionary Biology**
+2017 **($1428) The Betty Foster Feingold Endowment for Ecology and Evolutionary Biology to the Department of Ecology and Evolutionary Biology.**
 Ultrastructural comparison of desert and aquatic species of *Tetradesmus* (Chlorophyceae, Chlorophyta) in the hydrated, desiccated, and rehydrated states.
 
-2017 **($2000) Phycological Society of America’s Grant in Aid of Research**
+2017 **($2000) Phycological Society of America’s Grant in Aid of Research.**
 Desiccation tolerance in chlorophycean algae: a transcriptomic analysis.
 
 ### Publications
@@ -48,7 +48,7 @@ Anissimova, O. V., **Terlova, E. F.** 2015. Conjugatophyceae (Streptophyta) of N
 Anissimova, O. V., **Terlova, E. F.** 2014. *Micrasterias* C.Agardh (Conjugatophyceae) in the bogs of Moscow region. *Вопросы Современной Альгологии (Issues of modern algology)* 1:5. URL: http://algology.ru/476
 
 ### Presentations
-**Terlova, E.F.**, Lewis, L. A. 2021. Investigating metabolic changes during a desiccation-rehydration cycle in two desert species of *Tetradesmus* (Sphaeropleales, Chlorophyceae). 59th Annual Northeast Algal Symposium. **Francis R. Trainor Poster Award.**
+**Terlova, E.F.**, Lewis, L. A. 2021. Investigating metabolic changes during a desiccation-rehydration cycle in two desert species of *Tetradesmus* (Sphaeropleales, Chlorophyceae). *59th Annual Northeast Algal Symposium.* **Francis R. Trainor Poster Award.**
 
 **Terlova, E.F.**, Lewis, L. A. 2021. Metabolite changes during desiccation-rehydration cycle in desert and aquatic green algae from *Tetradesmus*. 12th International Phycological Congress. Puerto Varas, Chile.
 
