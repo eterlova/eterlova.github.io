@@ -5,7 +5,7 @@ layout: default
 
 <div align="center">
   <br>
-  <img src="https://github.com/eterlova/eterlova.github.io/blob/master/images/Terlovaetal2019.jpg" alt="Tadustus" width="500"/>
+  <img src="https://github.com/eterlova/eterlova.github.io/blob/master/images/Terlovaetal2019.jpg" alt="Tadustus" width="1000"/>
   <br>
 </div>
 
