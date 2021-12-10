@@ -1,5 +1,6 @@
 ---
-layout: default 
+layout: post
+title: New species from desert algae crusts
 ---
 
 
