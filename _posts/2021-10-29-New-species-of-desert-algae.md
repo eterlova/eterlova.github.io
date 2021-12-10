@@ -2,13 +2,13 @@
 layout: default 
 ---
 
-<!---
-<div align="right">
+
+<div align="center">
   <br>
-  <img src="https://github.com/eterlova/eterlova.github.io/blob/master/images/me_and_liquid_nitrogen.JPG" alt="PicOfMe" width="200"/>
+  <img src="https://github.com/eterlova/eterlova.github.io/blob/master/images/Terlovaetal2019.jpg" alt="Tadustus" width="500"/>
   <br>
 </div>
---->
+
 
 I am a last year Ph.D. student in the [Department of Ecology and Evolutionary Biology](eeb.uconn.edu) at the [University of Connecticut](uconn.edu), USA. I am doing my research under the supervision of Dr. Louise Lewis.
 
