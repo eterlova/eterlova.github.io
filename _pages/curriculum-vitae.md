@@ -17,6 +17,17 @@ Ph.D. candidate, Ecology and Evolutionary biology, 2016–present
 Specialist in Botany, (equivalent to MSc) Biology, 2010–2015
 Thesis: "Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Moscow region, Russia"
 
+### Publications
+**Terlova, E. F.**, Holzinger, A., Lewis, L. A. 2021. Terrestrial green algae show higher tolerance to dehydration than do their aquatic sister-species. *Microbial Ecology*, 82, p. 770–782.
+
+**Terlova, E. F.**, Lewis, L. A. 2019. A new species of *Tetradesmus* (Chlorophyceae, Chlorophyta) isolated from desert soil crust habitats in southwestern North America. *Plant and Fungal Systematics*, 34:1.
+
+Anissimova, O. V., **Terlova, E. F.** 2015. Additions to the desmid flora (Desmidiales, Conjugatophyceae) of Moscow region. *Ботанический журнал (Journal of Botany)*, 1:100.
+
+Anissimova, O. V., **Terlova, E. F.** 2015. Conjugatophyceae (Streptophyta) of Northern region of Russian Federation: review of studies and taxonomy. *Вопросы Современной Альгологии (Issues of Modern algology)*, 2:9. URL: http://algology.ru/746
+
+Anissimova, O. V., **Terlova, E. F.** 2014. *Micrasterias* C.Agardh (Conjugatophyceae) in the bogs of Moscow region. *Вопросы Современной Альгологии (Issues of modern algology)* 1:5. URL: http://algology.ru/476
+
 ### Research Grants
 
 2020 **($1000) Northeast Algal Society Grant-in-Aid of Student Research.** Metabolomics of aquatic and terrestrial sister-species under desiccation stress.
@@ -35,17 +46,6 @@ Ultrastructural comparison of desert and aquatic species of *Tetradesmus* (Chlor
 
 2017 **($2000) Phycological Society of America’s Grant in Aid of Research.**
 Desiccation tolerance in chlorophycean algae: a transcriptomic analysis.
-
-### Publications
-**Terlova, E. F.**, Holzinger, A., Lewis, L. A. 2021. Terrestrial green algae show higher tolerance to dehydration than do their aquatic sister-species. *Microbial Ecology*, 82, p. 770–782.
-
-**Terlova, E. F.**, Lewis, L. A. 2019. A new species of *Tetradesmus* (Chlorophyceae, Chlorophyta) isolated from desert soil crust habitats in southwestern North America. *Plant and Fungal Systematics*, 34:1.
-
-Anissimova, O. V., **Terlova, E. F.** 2015. Additions to the desmid flora (Desmidiales, Conjugatophyceae) of Moscow region. *Ботанический журнал (Journal of Botany)*, 1:100.
-
-Anissimova, O. V., **Terlova, E. F.** 2015. Conjugatophyceae (Streptophyta) of Northern region of Russian Federation: review of studies and taxonomy. *Вопросы Современной Альгологии (Issues of Modern algology)*, 2:9. URL: http://algology.ru/746
-
-Anissimova, O. V., **Terlova, E. F.** 2014. *Micrasterias* C.Agardh (Conjugatophyceae) in the bogs of Moscow region. *Вопросы Современной Альгологии (Issues of modern algology)* 1:5. URL: http://algology.ru/476
 
 ### Presentations
 **Terlova, E.F.**, Lewis, L. A. 2021. Investigating metabolic changes during a desiccation-rehydration cycle in two desert species of *Tetradesmus* (Sphaeropleales, Chlorophyceae). *59th Annual Northeast Algal Symposium.* **Francis R. Trainor Poster Award.**
