@@ -70,11 +70,11 @@ Desiccation tolerance in chlorophycean algae: a transcriptomic analysis.
 7. Metabolome extraction
 
 ### Bioinformatics skills
-1. **Programming languages**
+**Programming languages**
 
 bash, R, Python -- all at the independent user level
 
-2. **Transcriptomics**
+**Transcriptomics**
 
 QC (FastQC, MultiQC, Trimmomatic, Sickle)
 
@@ -84,7 +84,7 @@ Structural annotation (TransDecoder, EviGene pipelines)
 
 Functional annotation (EnTAP)
 
-3. **Genomics** (Oxford NanoPore long read technology)
+**Genomics** (Oxford NanoPore long read technology)
 
 QC (NanoPlot, PoreChop, Centrifuge)
 
@@ -94,7 +94,7 @@ Structural annotation (RepeatModeler pipeline)
 
 Functional annotation (Breaker2, Maker, EnTAP)
 
-4. **Metabolomics**
+**Metabolomics**
 
 Preprocessing and annotation (XCMS family of packages, MS-Dial)
 
