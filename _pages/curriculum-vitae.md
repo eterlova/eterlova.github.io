@@ -4,7 +4,7 @@ title:
 permalink: /cv/
 ---
 
-Download <a href="https://eterlova.github.io/CV_October2021.pdf" target="_blank">My CV</a> [Last updated: October 2021]
+Download <a href="https://eterlova.github.io/ETerlovaCVJan2022.pdf" target="_blank">My CV</a> [Last updated: October 2021]
 
 ## Curriculum Vitae
 
@@ -60,4 +60,31 @@ Desiccation tolerance in chlorophycean algae: a transcriptomic analysis.
 
 **Terlova, E. F.**, O. V. Anissimova. 2013. Desmid algae (Conjugatophyceae, Charophyta) of the Russian North. Marine Biology, Geology and Oceanography: interdisciplinary research at marine stations; dedicated to the 75th anniversary of the Nikolai Pertsov White Sea Biological Station. Moscow, Russia.
 
+### Wet Lab Skills
+1. Axenic cell culture establishment and maintenance (liquid & solid media)
+2. TEM and SEM sample preparation
+3. DNA extraction
+4. PCR reaction setup
+5. Sanger sequencing setup
+6. RNA extractioin
+7. Metabolome extraction
+
+### Bioinformatics skills
+1. **Programming languages**
+bash, R, Python -- all at the independent user level
+
+2. **Transcriptomics**
+QC (FastQC, MultiQC, Trimmomatic, Sickle)
+_De novo_ transcriptome assembly (Trinity)
+Structural annotation (TransDecoder, EviGene pipelines)
+Functional annotation (EnTAP)
+
+3. **Genomics** (Oxford NanoPore long read technology)
+QC (NanoPlot, PoreChop, Centrifuge)
+Genome assembly (Shasta, Flye, Canu)
+Structural annotation (RepeatModeler pipeline)
+Functional annotation (Breaker2, Maker, EnTAP)
+
+4. **Metabolomics**
+Preprocessing and annotation (XCMS family of packages, MS-Dial)
 
