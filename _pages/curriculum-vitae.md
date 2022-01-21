@@ -71,20 +71,30 @@ Desiccation tolerance in chlorophycean algae: a transcriptomic analysis.
 
 ### Bioinformatics skills
 1. **Programming languages**
+
 bash, R, Python -- all at the independent user level
 
 2. **Transcriptomics**
+
 QC (FastQC, MultiQC, Trimmomatic, Sickle)
+
 _De novo_ transcriptome assembly (Trinity)
+
 Structural annotation (TransDecoder, EviGene pipelines)
+
 Functional annotation (EnTAP)
 
 3. **Genomics** (Oxford NanoPore long read technology)
+
 QC (NanoPlot, PoreChop, Centrifuge)
+
 Genome assembly (Shasta, Flye, Canu)
+
 Structural annotation (RepeatModeler pipeline)
+
 Functional annotation (Breaker2, Maker, EnTAP)
 
 4. **Metabolomics**
+
 Preprocessing and annotation (XCMS family of packages, MS-Dial)
 
