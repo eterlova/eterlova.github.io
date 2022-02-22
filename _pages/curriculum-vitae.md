@@ -4,7 +4,7 @@ title:
 permalink: /cv/
 ---
 
-Download <a href="https://eterlova.github.io/ETerlovaCVFeb2022.pdf" target="_blank">My CV</a> [Last updated: October 2021]
+Download <a href="https://eterlova.github.io/ETerlovaCVFeb2022.pdf" target="_blank">My CV</a> [Last updated: February 2022]
 
 ## Curriculum Vitae
 
