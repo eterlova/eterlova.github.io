@@ -9,11 +9,10 @@ Download <a href="https://eterlova.github.io/ETerlovaCVFeb2022.pdf" target="_bla
 ## Curriculum Vitae
 
 ### Education
-**University of Connecticut**, Storrs, CT, USA
+**University of Connecticut**, Storrs, CT, USA.
 Ph.D. candidate, Ecology and Evolutionary biology, 2016–present
 
-**Lomonosov Moscow University**, Moscow, Russia
-
+**Lomonosov Moscow University**, Moscow, Russia.
 Specialist in Botany, (equivalent to MSc) Biology, 2010–2015
 Thesis: "Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Moscow region, Russia"
 
