@@ -9,19 +9,19 @@ Download <a href="https://eterlova.github.io/ETerlovaCVJan2023.pdf" target="_bla
 ## Curriculum Vitae
 
 ### Education and Academic Appointments
-**Heinrich Heine University**, Dusseldorf, Germany.
-Postdoctoral Fellow, 2023-present
-Advisor: Dr. Guido Grossmann
+**Heinrich Heine University**, Dusseldorf, Germany.<br>
+Postdoctoral Fellow, 2023-present<br>
+Advisor: Dr. Guido Grossmann<br>
 
-**University of Connecticut**, Storrs, CT, USA.
-Ph.D. Ecology and Evolutionary biology, 2016–2022
-Dissertation: Response to dehydration stress and recovery in terrestrial and aquatic green algae from *Tetradesmus* G. M. Smith (Sphaeropleales, Chlorophyta)\\
-Advisor: Dr. Louise Lewis
+**University of Connecticut**, Storrs, CT, USA. <br>
+Ph.D. Ecology and Evolutionary biology, 2016–2022 <br>
+Dissertation: Response to dehydration stress and recovery in terrestrial and aquatic green algae from *Tetradesmus* G. M. Smith (Sphaeropleales, Chlorophyta) <br>
+Advisor: Dr. Louise Lewis<br>
 
-**Lomonosov Moscow University**, Moscow, Russia.
-Specialist in Botany, (equivalent to MSc) Biology, 2010–2015
-Thesis: Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Moscow region, Russia
-Advisor: Dr. Olga Anissimova
+**Lomonosov Moscow University**, Moscow, Russia.<br>
+Specialist in Botany, (equivalent to MSc) Biology, 2010–2015<br>
+Thesis: Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Moscow region, Russia<br>
+Advisor: Dr. Olga Anissimova<br>
 
 ### Publications
 **Terlova, E. F.**, Holzinger, A., Lewis, L. A. 2021. Terrestrial green algae show higher tolerance to dehydration than do their aquatic sister-species. *Microbial Ecology*, 82, p. 770–782.
