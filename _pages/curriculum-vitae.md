@@ -4,17 +4,24 @@ title:
 permalink: /cv/
 ---
 
-Download <a href="https://eterlova.github.io/ETerlovaCVFeb2022.pdf" target="_blank">My CV</a> [Last updated: February 2022]
+Download <a href="https://eterlova.github.io/ETerlovaCVJan2023.pdf" target="_blank">My CV</a> [Last updated: December 2023]
 
 ## Curriculum Vitae
 
-### Education
+### Education and Academic Appointments
+**Heinrich Heine University**, Dusseldorf, Germany.
+Postdoctoral Fellow, 2023-present
+Advisor: Dr. Guido Grossmann
+
 **University of Connecticut**, Storrs, CT, USA.
-Ph.D. candidate, Ecology and Evolutionary biology, 2016–present
+Ph.D. Ecology and Evolutionary biology, 2016–2022
+Dissertation: Response to dehydration stress and recovery in terrestrial and aquatic green algae from *Tetradesmus* G. M. Smith (Sphaeropleales, Chlorophyta)
+Advisor: Dr. Louise Lewis
 
 **Lomonosov Moscow University**, Moscow, Russia.
 Specialist in Botany, (equivalent to MSc) Biology, 2010–2015
-Thesis: "Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Moscow region, Russia"
+Thesis: Desmids (Conjugatophyceae, Charophyta) of the Filinskoe peat-bog, Moscow region, Russia
+Advisor: Dr. Olga Anissimova
 
 ### Publications
 **Terlova, E. F.**, Holzinger, A., Lewis, L. A. 2021. Terrestrial green algae show higher tolerance to dehydration than do their aquatic sister-species. *Microbial Ecology*, 82, p. 770–782.
