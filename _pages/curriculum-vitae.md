@@ -15,7 +15,7 @@ Advisor: Dr. Guido Grossmann
 
 **University of Connecticut**, Storrs, CT, USA.
 Ph.D. Ecology and Evolutionary biology, 2016–2022
-Dissertation: Response to dehydration stress and recovery in terrestrial and aquatic green algae from *Tetradesmus* G. M. Smith (Sphaeropleales, Chlorophyta)
+Dissertation: Response to dehydration stress and recovery in terrestrial and aquatic green algae from *Tetradesmus* G. M. Smith (Sphaeropleales, Chlorophyta)\\
 Advisor: Dr. Louise Lewis
 
 **Lomonosov Moscow University**, Moscow, Russia.
